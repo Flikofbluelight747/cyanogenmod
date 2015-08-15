@@ -1,2 +1,0 @@
-# cyanogenmod
-hack the planet
